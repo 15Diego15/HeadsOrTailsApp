@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cara o cruz</string>
+    <string name="headsOrTailsText">Cara o cruz</string>
+    <string name="infoText">Haz tu apuesta</string>
+    <string name="headsButton">Cara</string>
+    <string name="tailsButton">Cruz</string>
+    <string name="winText">Victoria</string>
+    <string name="defeatText">Derrota</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HeadsOrTailsApp</string>
+    <string name="headsOrTailsText">Heads or Tails</string>
+    <string name="infoText">Place your bet</string>
+    <string name="headsButton">Head</string>
+    <string name="tailsButton">Tails</string>
+    <string name="winText">Win</string>
+    <string name="defeatText">Defeat</string>
+</resources>
